@@ -9,4 +9,5 @@ function App() {
     </main>
   );
 }
+console.log('first')
 export default App;
